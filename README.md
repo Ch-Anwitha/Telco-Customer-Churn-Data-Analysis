@@ -71,55 +71,6 @@ These visualizations help in identifying high-risk customer groups.
 
 ---
 
-## ✅ Key Findings
-
-* Dataset is clean with **no missing values**
-* Certain customer segments show higher churn tendencies
-* Visual analysis helps clearly identify churn patterns across features
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/Churn-Analysis.git
-   ```
-2. Navigate to the project directory:
-
-   ```bash
-   cd Churn-Analysis
-   ```
-3. Install required libraries:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-4. Launch Jupyter Notebook:
-
-   ```bash
-   py -m notebook
-   ```
-5. Open `TCDA.ipynb` and run the cells
-
----
-
-## 📌 Future Enhancements
-
-* Feature engineering
-* Machine learning models for churn prediction
-* Model evaluation and performance comparison
-* Dashboard creation using Power BI / Tableau
-
----
-
-## 💼 Resume Description (Optional)
-
-> Performed exploratory data analysis on a telecom customer dataset to identify churn patterns using Python, Pandas, and Seaborn. Created insightful visualizations and derived actionable business insights.
-
----
-
 ## 👩‍💻 Author
 
 **Anwitha Chinthakindi**
